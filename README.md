@@ -1,3 +1,3 @@
 # Snake-game
 
-Build the Snake game using C#
+Built the Snake game using C#
