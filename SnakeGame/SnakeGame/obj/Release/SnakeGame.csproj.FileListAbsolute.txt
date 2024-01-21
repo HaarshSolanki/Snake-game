@@ -1,0 +1,11 @@
+C:\Snake game 2019\SnakeGame\SnakeGame\SnakeGame\bin\Release\SnakeGame.exe.config
+C:\Snake game 2019\SnakeGame\SnakeGame\SnakeGame\bin\Release\SnakeGame.exe
+C:\Snake game 2019\SnakeGame\SnakeGame\SnakeGame\bin\Release\SnakeGame.pdb
+C:\Snake game 2019\SnakeGame\SnakeGame\SnakeGame\obj\Release\SnakeGame.csprojAssemblyReference.cache
+C:\Snake game 2019\SnakeGame\SnakeGame\SnakeGame\obj\Release\SnakeGame.frmSnake.resources
+C:\Snake game 2019\SnakeGame\SnakeGame\SnakeGame\obj\Release\SnakeGame.frmHeader.resources
+C:\Snake game 2019\SnakeGame\SnakeGame\SnakeGame\obj\Release\SnakeGame.Properties.Resources.resources
+C:\Snake game 2019\SnakeGame\SnakeGame\SnakeGame\obj\Release\SnakeGame.csproj.GenerateResource.cache
+C:\Snake game 2019\SnakeGame\SnakeGame\SnakeGame\obj\Release\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Snake game 2019\SnakeGame\SnakeGame\SnakeGame\obj\Release\SnakeGame.exe
+C:\Snake game 2019\SnakeGame\SnakeGame\SnakeGame\obj\Release\SnakeGame.pdb
